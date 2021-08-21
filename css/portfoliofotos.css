@@ -1,0 +1,34 @@
+.introducao{
+	width: 100%;
+	height: 220px;
+	background: #000;
+	background-size: cover;
+	margin-top: 124px;
+	text-align: center;
+	padding-top: 80px; 
+}
+
+.portfolio{
+	text-align: center;
+}
+
+.subtitulo{
+	margin-top: 40px;
+}
+
+.portfolio ul li:nth-child(even){
+	margin-bottom: 20px; 
+}
+
+.portfolio_lista-img{
+	margin-top: 30px
+}
+
+.call{
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+.call p{
+	color: #000;
+}

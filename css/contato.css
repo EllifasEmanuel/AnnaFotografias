@@ -1,0 +1,98 @@
+.introducao{
+	width: 100%;
+	height: 220px;
+	background: #000;
+	background-size: cover;
+	margin-top: 124px;
+	text-align: center;
+	padding-top: 80px; 
+}
+
+.contato{
+	padding: 40px 0;
+}
+
+.contato_form{
+	padding-right: 60px;
+}
+
+.contato_form label{
+	display: block;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 4px;
+}
+
+.contato_form input{
+	display: block;
+	width: 100%;
+	border: 4px solid #000;
+	background: none;
+	padding: 7px 10px;
+	margin-bottom: 10px;
+	outline: none;
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.contato_form textarea{
+	display: block;
+	width: 100%;
+	height: 120px;
+	border: 4px solid #000;
+	background: none;
+	padding: 7px 10px;
+	margin-bottom: 20px;
+	outline: none;
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.contato_form button{
+	background: none;
+	padding: 7px 40px;
+}
+
+
+.contato_dados h3{
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+}
+
+.contato_dados span{
+	display: block;
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", serif;
+	line-height: 30px;
+}
+
+.contato_dados span:nth-of-type(even){
+	margin-bottom: 30px;
+}
+
+.contato_dados ul{
+	margin-top: 10px;
+}
+
+.contato_dados ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.contato_dados ul li a {
+	border: 3px solid #6E6E6E;
+	display: block;
+	padding: 10px;
+}
+
+.contato_dados ul li a:hover {
+	border-color: #000;
+}
+
+.contato-mapa{
+	margin-bottom: 60px;
+}
